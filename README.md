@@ -1,4 +1,4 @@
-# End-to-End-Multi-Language-Inovice-Extractor-Project-using-LLM-Model
+# End to End Multi Language Inovice Extractor Project using LLM Model
 
 This is a simple web application built using Streamlit and Google Generative AI (`gemini-pro-vision`) to analyze uploaded images, particularly invoices, and provide relevant responses based on the input prompt. 
 
@@ -107,18 +107,36 @@ You can run  application by navigating to the project folder and executing the f
 - **File upload errors**: Ensure that the file is in a supported format (`.jpg`, `.jpeg`, `.png`).
 - **No response from the model**: Double-check your **Google API Key** in the `.env` file to ensure it's valid and correctly loaded.
 
+---
 
-## Contributions
+## 👥 Contributing
+
 Contributions are welcome! If you find any issues or want to enhance the code, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. **Fork the repository**.
+2. **Create a new branch** with a descriptive name:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Commit your changes**:
+   ```bash
+   git commit -m "Added new feature: your-feature-name"
+   ```
+6. **Push to the branch**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. **Create a Pull Request**.
 
 ---
-## Credits
 
-This repository is maintained by 4Pranjal. Feel free to use and modify the code for educational and research purposes.
+## 👤 Credits
+
+This repository is maintained by **4Pranjal**. Feel free to use and modify the code for educational and research purposes.
 
 For any questions or suggestions, you can contact me through my GitHub profile: [@4Pranjal](https://github.com/4Pranjal).
 
-Made with ❤️ by [Pranjal Jain](https://github.com/4Pranjal)
+Made with ❤️ by Pranjal Jain
+ 
+---
+ 
